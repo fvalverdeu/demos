@@ -1,0 +1,11 @@
+{
+  "name": "mongoDb",
+  "connector": "mongodb",
+  "url": "mongodb+srv://newUser:bz2vLGB3ZSJdWAJB@cluster0-yg0rr.mongodb.net/api_books",
+  "host": "cluster0-yg0rr.mongodb.net/api_books",
+  "port": 27017,
+  "user": "newUser",
+  "password": "bz2vLGB3ZSJdWAJB",
+  "database": "api_books",
+  "useNewUrlParser": true
+}
